@@ -1,0 +1,64 @@
+2025-07-31 20:31:53 [INFO]: 🚀 ZimAI Resume Backend server running on port 3000
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:31:53 [INFO]: 📊 Environment: development
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:31:53 [INFO]: 🔗 Health check: http://localhost:3000/health
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:31:54 [ERROR]: ❌ Failed to connect to Supabase:
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:35:47 [INFO]: 🚀 ZimAI Resume Backend server running on port 3000
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:35:47 [INFO]: 📊 Environment: development
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:35:47 [INFO]: 🔗 Health check: http://localhost:3000/health
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:35:48 [ERROR]: ❌ Failed to connect to Supabase:
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:38:46 [INFO]: 🚀 ZimAI Resume Backend server running on port 3000
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:38:46 [INFO]: 📊 Environment: development
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:38:46 [INFO]: 🔗 Health check: http://localhost:3000/health
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:38:49 [INFO]: ✅ Supabase connection established successfully
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:38:54 [INFO]: ::1 - - [31/Jul/2025:18:38:54 +0000] "GET /health HTTP/1.1" 200 119 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0"
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:38:54 [INFO]: ::1 - - [31/Jul/2025:18:38:54 +0000] "GET /favicon.ico HTTP/1.1" 404 63 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0"
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:46:38 [INFO]: ::1 - - [31/Jul/2025:18:46:38 +0000] "GET /?error=invalid_request&error_code=bad_oauth_state&error_description=OAuth+callback+with+invalid+state HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0"
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:46:38 [INFO]: ::1 - - [31/Jul/2025:18:46:38 +0000] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 100 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0"
+Meta: {
+  "service": "zimai-backend"
+}

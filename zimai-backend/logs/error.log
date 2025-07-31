@@ -1,0 +1,8 @@
+2025-07-31 20:31:54 [ERROR]: ❌ Failed to connect to Supabase:
+Meta: {
+  "service": "zimai-backend"
+}
+2025-07-31 20:35:48 [ERROR]: ❌ Failed to connect to Supabase:
+Meta: {
+  "service": "zimai-backend"
+}
